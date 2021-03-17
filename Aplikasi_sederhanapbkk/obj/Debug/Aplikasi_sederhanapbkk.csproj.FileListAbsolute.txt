@@ -1,0 +1,10 @@
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_sederhanapbkk\bin\Debug\Aplikasi_sederhanapbkk.exe.config
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_sederhanapbkk\bin\Debug\Aplikasi_sederhanapbkk.exe
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_sederhanapbkk\bin\Debug\Aplikasi_sederhanapbkk.pdb
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_sederhanapbkk\obj\Debug\Aplikasi_sederhanapbkk.csprojAssemblyReference.cache
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_sederhanapbkk\obj\Debug\Aplikasi_sederhanapbkk.Form1.resources
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_sederhanapbkk\obj\Debug\Aplikasi_sederhanapbkk.Properties.Resources.resources
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_sederhanapbkk\obj\Debug\Aplikasi_sederhanapbkk.csproj.GenerateResource.cache
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_sederhanapbkk\obj\Debug\Aplikasi_sederhanapbkk.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_sederhanapbkk\obj\Debug\Aplikasi_sederhanapbkk.exe
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_sederhanapbkk\obj\Debug\Aplikasi_sederhanapbkk.pdb

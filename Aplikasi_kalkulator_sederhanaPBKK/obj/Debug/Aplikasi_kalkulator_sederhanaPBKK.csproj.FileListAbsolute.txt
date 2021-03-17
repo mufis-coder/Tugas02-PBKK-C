@@ -1,0 +1,10 @@
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_kalkulator_sederhanaPBKK\bin\Debug\Aplikasi_kalkulator_sederhanaPBKK.exe.config
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_kalkulator_sederhanaPBKK\bin\Debug\Aplikasi_kalkulator_sederhanaPBKK.exe
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_kalkulator_sederhanaPBKK\bin\Debug\Aplikasi_kalkulator_sederhanaPBKK.pdb
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_kalkulator_sederhanaPBKK\obj\Debug\Aplikasi_kalkulator_sederhanaPBKK.csprojAssemblyReference.cache
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_kalkulator_sederhanaPBKK\obj\Debug\Aplikasi_kalkulator_sederhanaPBKK.Form1.resources
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_kalkulator_sederhanaPBKK\obj\Debug\Aplikasi_kalkulator_sederhanaPBKK.Properties.Resources.resources
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_kalkulator_sederhanaPBKK\obj\Debug\Aplikasi_kalkulator_sederhanaPBKK.csproj.GenerateResource.cache
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_kalkulator_sederhanaPBKK\obj\Debug\Aplikasi_kalkulator_sederhanaPBKK.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_kalkulator_sederhanaPBKK\obj\Debug\Aplikasi_kalkulator_sederhanaPBKK.exe
+C:\Users\ACER\Kuliah\PBKK\Tugas_02\Aplikasi_kalkulator_sederhanaPBKK\obj\Debug\Aplikasi_kalkulator_sederhanaPBKK.pdb
